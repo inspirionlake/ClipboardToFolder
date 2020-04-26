@@ -1,12 +1,12 @@
 # ClipboardToFolder
 
-Yet another program, which save image from clipboard to folder, where program was called. Name for image is current date. Methods for working with Windows registry was got from https://github.com/EslaMx7/PasteIntoFile
+Program for saving an image from clipboard to folder, where the program was called. Name for an image is the current date, format - BMP. Methods for working with Windows registry was got from this repository https://github.com/EslaMx7/PasteIntoFile
 
 # How to use
 - Build project
-- Place ClipboardToFolder.exe in convineint for you directory
-- Run ClipboardToFolder.exe with /reg argument to add button in explorer context menu
-- All done. Now you can make print screen and click "Paste into file" from explorer context menu to save screenshot in current folder.
+- Place ClipboardToFolder.exe in convenient for you directory
+- Run ClipboardToFolder.exe with / reg argument to add button in the explorer context menu
+- All done. Now you can make a print screen and click "Paste into file" from the explorer context menu to save a screenshot in the current folder.
 
-# How to unregistry program
-- Run ClipboardToFolder.exe with /unreg argument to delete button from explorer context menu
+# How to unregister program
+- Run ClipboardToFolder.exe with / unreg argument to delete the button from the explorer context menu
